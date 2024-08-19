@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|c:\\users\\moise\\documents\\1 hub_de_entretenimiento_mega\\backend asp net\\hubdeentretenimientomegaliderlybackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|c:\\users\\moise\\documents\\1 hub_de_entretenimiento_mega\\backend asp net\\hubdeentretenimientomegaliderlybackend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|c:\\users\\moise\\documents\\1 hub_de_entretenimiento_mega\\backend asp net\\hubdeentretenimientomegaliderlybackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|c:\\users\\moise\\documents\\1 hub_de_entretenimiento_mega\\backend asp net\\hubdeentretenimientomegaliderlybackend\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|c:\\users\\moise\\documents\\1 hub_de_entretenimiento_mega\\backend asp net\\hubdeentretenimientomegaliderlybackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|c:\\users\\moise\\documents\\1 hub_de_entretenimiento_mega\\backend asp net\\hubdeentretenimientomegaliderlybackend\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96486A33-257A-49BB-AEC3-F98B087B401E}|HubDeEntretenimientoMegaLiderlyBackend.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T22:00:19.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T21:55:02.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Models\\AppDBContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwDcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:34:30.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:27:57.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Controllers\\AccessController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:24:15.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\moise\\Documents\\1 Hub_de_entretenimiento_Mega\\Backend ASP NET\\HubDeEntretenimientoMegaLiderlyBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:29:55.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

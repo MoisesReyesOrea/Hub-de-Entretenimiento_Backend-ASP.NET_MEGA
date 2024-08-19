@@ -1,0 +1,11 @@
+appsettings.Development.json
+
+# Compiled object files
+*.o
+*.obj
+*.dll
+*.exe
+
+# ASP.NET Core
+bin/
+obj/
